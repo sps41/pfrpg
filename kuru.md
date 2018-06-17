@@ -11,13 +11,13 @@ Basheba, Female Kuru Warpriest of the Bloodqueen 12.
 
 ## Yalok (Shaman, CR 10 alone)
 
-Yalok is the spiritual leader of the tribe, and cousin to the chiefs. She is a skilled herbalist and poison-crafter as well as an alchemist. She provides healing and guidance for the tribe and directs the rites of appeasement to the Bloodqueen. 
+Yalok is the spiritual leader of the tribe, and cousin to the chiefs. She is a skilled herbalist and poison-crafter as well as an alchemist. She provides healing and guidance for the tribe and directs the rites of appeasement to the Bloodqueen. If she is needed she provides back-up and support for the Elite Guard, but will cut and run to the chiefs if they look like they'll fall. 
 
 Yalok, Female Kuru Shaman 11
 
 ## Tendrak, Arsha, Nialli and Obregor (Elite guard CR 10 together. With Yalok CR 12 encounter))
 
-These four are the best of the warriors the tribe has produced. Brutal killing machines they guard the chiefs, deal with the most challenging foes and provide the solid core of the tribe's fighting force. Tactically Obregor usually charges out front to tie down as many as possible and soak up initial attacks in partnership with Tendrak while Arsha and Nialli hang back and eliminate threats from distane if they can. Both are more than able to stand their ground in close combat as well however.
+These four are the best of the warriors the tribe has produced. Brutal killing machines they guard the chiefs, deal with the most challenging foes and provide the solid core of the tribe's fighting force. Tactically Obregor usually charges out front to tie down as many as possible and soak up initial attacks in partnership with Tendrak while Arsha and Nialli hang back and eliminate threats from distane if they can. Both are more than able to stand their ground in close combat as well however. They will fight to the death if their tribe is seriously threatened.
 
 Tendrak, Male Kuru Fighter 7 <br>
 Arsha, Female Kuru Ranger 7 <br>
@@ -26,7 +26,7 @@ Obregor, Male Kuru Brawler 7<br>
 
 ## Chorcat (Huntmaster, CR 10 alone)
 
-A deadly huntsman, Chorcat is able to blend into shadows and almost disappear - striking like a snake to elimate isolated prey or capture it if necessary. He makes extensive use of the poisons that Yalok makes for the tribe to bring down foes many times his own strength.
+A deadly huntsman, Chorcat is able to blend into shadows and almost disappear - striking like a snake to elimate isolated prey or capture it if necessary. He makes extensive use of the poisons that Yalok makes for the tribe to bring down foes many times his own strength. He prefers disengagement, escape and then striking from surprise should the fight become too even and will try to return and warn the tribe shoulda foe become too much for him, happily sacrificing his own forces to do so if necessary.
 
 ## Standard hunting party (CR 7, CR 11 with Chorcat)
 
