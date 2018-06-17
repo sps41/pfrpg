@@ -7,7 +7,44 @@ Garshog is an enormously fat man, grown obese on human flesh and using his size 
 
 Garshog, Kuru Male Sorcerer (Sylvan) 12
 
-Basheba, Female Kuru Warpriest of the Bloodqueen 12.
+**Basheba, Female Kuru Warpriest of the Bloodqueen. CR 11 (XP 12,800)**<br>
+Kuru Warpriest 12<br>
+CE Medium humanoid (kuru)<br>
+**Init** +5; **Senses** Low-light vision, Perception +2<br>
+DEFENSE<br>
+**AC** 19, touch 15, flat-footed 14 (+4 armor, +5 Dex)<br>
+**hp** 92 (12d8+34)<br>
+**Fort** +11, **Ref** +9, **Will** +12<br>
+**Defensive Abilities** <br>
+**Weaknesses** light sensitivity<br>
+OFFENSE<br>
+**Speed** 30 ft.<br>
+**Melee** Balor's Lash (+1 Flaming Whip) +16/+11 (1d10+3 + 1d6 fire; 2d6 fire on non-damaging combat manoever), bite +9 (1d6+2 plus cannibalistic vitality)<br>
+**Ranged** dagger +14 (1d4+2/19–20)<br>
+**Special Attacks** Channel energy (DC 17) 4d6, Spells (5/6/5/3/3), Blessings: Destructive Attacks (+5 damage for 1 minute), Unholy Strike (+1d6 weapon damage, Evil for 1 minute), Heart of Carnage, Battle Companion (SM IV, usually Fiendish Giant Scorpion)<br>
+*Spells prepared:*<br>
+*0:*
+*1: Magic Vestment, Divine Favor, Shield of Faith, *
+*2: Ironskin, Aid, Bull's Strength, Sympathetic Wounds, Death Knell*
+*3: Channel Vigor, Shield of Darkness, *
+*4: Divine Power*
+TACTICS<br>
+**Before Combat** She will use her sacred weapon ability to add +2, *Dueling* to the Balor's Lash (+2 to hit/dmg, +6 to trip/disarm attempts) and add +2 to her armor via sacred armor. She usually enters combat riding her Battle Companion - normally a Fiendish Giant Scorpion or Wasp (if flight would be useful). If that is not appropriate (space etc.) she summons a hellhound instead. She casts Sympathetic Wounds on the summoned creature.<br>
+**During Combat** While wielding a whip she has reach 15' and threatens to 20', deals full damage and can (as a standard action) perform a trip or disarm attempt which, if successful she can repeat on any other foe in range. Foes take 2d6 fire damage from any non-damaging manoever. She can also grapple with the whip and never drops it due to a failed disarm or trip combat maneuver attempt. Tripping a foe causes them to provoke AoOs. During combat she attempts to trip as often as she can, moving her mount into range to attack the tripped foes and use attacks of opportunity to keep them down and/or disarmed. She uses her swift action blessings to cast spells which her damage as well as that of her mount (Divine Power/Favor/Channel Vigor etc).<br>
+STATISTICS<br>
+**Str** 14, **Dex** 20, **Con** 15, **Int** 8, **Wis** 14, **Cha** 8<br>
+**Base Atk** +9/+4; **CMB** +11 (+18 trip, +20 trip w. Balor's Lash); **CMD** 26<br>
+**Feats** Weapon Focus (Whip), Weapon Finesse, Whip Mastery, Improved Whip Mastery, Greater Whip Mastery, Serpent Lash, Greater Serpent Lash, Improved Trip, Dirty Fighting, Fury's Fall, Combat Reflexes<br>
+**Skills** Handle Animal +10, Ride +16<br>
+**Languages** Kuru<br>
+**SQ** Blood Courage (Ex), Cannibalistic Vitality (Ex), Aura (CE), blessings (Evil & Destruction) 9/day (DC 17), focus weapon (whip, 1d10), orisons, Fervor 4d6 8/day, Channel energy (DC 17), sacred weapon +3 12 rnds/day, sacred armor +2 (12 mins/day), Spontaneous Casting (inflict)<br>
+**Combat Gear** Balor's Lash, Studded Leather armor +1<br>
+**Other Gear** Headband of Wisdom +2, Cloak of Resistance +1 4,699 gp
+
+DESCRIPTION
+. 
+
+21k gp
 
 ## Yalok (Shaman, CR 10 alone)
 
