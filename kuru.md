@@ -33,8 +33,8 @@ TACTICS<br>
 **During Combat** While wielding a whip she has reach 15' and threatens to 20', deals full damage and can (as a standard action) perform a trip or disarm attempt which, if successful she can repeat on any other foe in range. Foes take 2d6 fire damage from any non-damaging manoever. She can also grapple with the whip and never drops it due to a failed disarm or trip combat maneuver attempt. Tripping a foe causes them to provoke AoOs. During combat she attempts to trip as often as she can, moving her mount into range to attack the tripped foes and use attacks of opportunity to keep them down and/or disarmed. She uses her swift action blessings to cast spells which her damage as well as that of her mount (Divine Power/Favor/Channel Vigor etc).<br>
 STATISTICS<br>
 **Str** 14, **Dex** 20, **Con** 15, **Int** 8, **Wis** 14, **Cha** 8<br>
-**Base Atk** +9/+4; **CMB** +11 (+18 trip, +20 trip w. Balor's Lash); **CMD** 26<br>
-**Feats** Weapon Focus (Whip), Weapon Finesse, Whip Mastery, Improved Whip Mastery, Greater Whip Mastery, Serpent Lash, Greater Serpent Lash, Improved Trip, Dirty Fighting, Fury's Fall, Combat Reflexes<br>
+**Base Atk** +9/+4; **CMB** +11 (+16 trip, +18 trip w. Balor's Lash); **CMD** 26<br>
+**Feats** Weapon Focus (Whip), Weapon Finesse, Whip Mastery, Improved Whip Mastery, Greater Whip Mastery, Serpent Lash, Greater Serpent Lash, Improved Trip, Dirty Fighting, Combat Reflexes<br>
 **Skills** Handle Animal +10, Ride +16<br>
 **Languages** Kuru<br>
 **SQ** Blood Courage (Ex), Cannibalistic Vitality (Ex), Aura (CE), blessings (Evil & Destruction) 9/day (DC 17), focus weapon (whip, 1d10), orisons, Fervor 4d6 8/day, Channel energy (DC 17), sacred weapon +3 12 rnds/day, sacred armor +2 (12 mins/day), Spontaneous Casting (inflict)<br>
