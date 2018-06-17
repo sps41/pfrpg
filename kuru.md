@@ -34,7 +34,7 @@ TACTICS<br>
 STATISTICS<br>
 **Str** 14, **Dex** 20, **Con** 15, **Int** 8, **Wis** 14, **Cha** 8<br>
 **Base Atk** +9/+4; **CMB** +11 (+16 trip, +18 trip w. Balor's Lash); **CMD** 26<br>
-**Feats** Weapon Focus (Whip), Weapon Finesse, Whip Mastery, Improved Whip Mastery, Greater Whip Mastery, Serpent Lash, Greater Serpent Lash, Improved Trip, Dirty Fighting, Combat Reflexes<br>
+**Feats** Weapon Focus (Whip), Weapon Finesse, Whip Mastery, Improved Whip Mastery, Greater Whip Mastery, Serpent Lash, Greater Serpent Lash, Improved Trip, Dirty Fighting, Combat Reflexes, Pin Down<br>
 **Skills** Handle Animal +10, Ride +16<br>
 **Languages** Kuru<br>
 **SQ** Blood Courage (Ex), Cannibalistic Vitality (Ex), Aura (CE), blessings (Evil & Destruction) 9/day (DC 17), focus weapon (whip, 1d10), orisons, Fervor 4d6 8/day, Channel energy (DC 17), sacred weapon +3 12 rnds/day, sacred armor +2 (12 mins/day), Spontaneous Casting (inflict)<br>
