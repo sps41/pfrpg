@@ -5,7 +5,45 @@
 Garshog and Basheba are (respectively) husband and wife, as well as borther and sister. They have, together, rules the clan since they killed and consumed the last chief (thier father) some years back. Utterly loyal to each other they are inseperable - together in bed, in battle andprobably in death.
 Garshog is an enormously fat man, grown obese on human flesh and using his size to fuel his dark powers. Though physically ugly he has a magnetic personality and holds the Kuru in his sway as much through words as through his personal power. Those unpersuaded by either are usually convinced by the brutal killing power of his animal companion and his mate however!
 
-Garshog, Kuru Male Sorcerer (Ghoul) 12
+**Garshog, Male Kuru Ghoul Bloodline Sorcerer. CR 11 (XP 12,800)**<br>
+Kuru Sorcerer 12<br>
+CE Medium humanoid (kuru)<br>
+**Init** +3; **Senses** Low-light vision, Perception -1<br>
+DEFENSE<br>
+**AC** 22, touch 17, flat-footed 18 (+4 armor, +3 Dex, +4 Natural Armor)<br>
+**hp** 72 + 25 (False Life, Greater) (12d6+36)<br>
+**Fort** +7, **Ref** +8, **Will** +8<br>
+**Defensive Abilities** DR 5/Bludgeoning, Cold Resistance 10, Natural Armor +4, Earthcrawler (160 hp max), First 5 hp damage converted to non-lethal (50 max)<br>
+**Weaknesses** light sensitivity<br>
+OFFENSE<br>
+**Speed** 20 ft., Burrow 30 ft.<br>
+**Melee** Claws, bite + (1d6+ plus cannibalistic vitality)<br>
+**Ranged** dagger + (1d4+/19–20)<br>
+**Special Attacks** Ghoul Bloodline Powers: Ghoulish Claws (Su) 8 rounds/day (2 claws, 1d4+1 rounds paralysis, counts as magic), Ravenous Frenzy (Ex) 16 rounds/day (haste, bleed 1d4 if 2 claws hit), Arcane Strike +3<br>
+Spells: (CL 12, DC15+level. +2 CL and DC for necromancy spells), <br>
+*Spells known:*<br>
+*0: 9*<br>
+*1: (7/8) ray of enfeeblement (CL 14, DC: 18), Mage Armor, Shield, True Strike, Touch of Blindness (CL 14, DC: 18), Protection from Good*<br>
+*2: (6/7) feast of ashes, Defending Bone (CL 14), Spectral hand (CL 14), Spider climb, Invisibility, Mirror Image*<br>
+*3: (/7) vampiric touch (CL 14, DC: 20), Haste, Fly, Blacklight, Ablative Barrier*<br>
+*4: (6/7) fear (CL 14, DC: 21), False Life, Greater (CL 14), Boneshatter (CL 14, DC: 21), Deathless (CL 14)*<br>
+*5: (/6) hungry earth, Vampiric Shadow Shield (CL 14, DC: 22), Blood Tentacles (DC: 22)*<br>
+*6: (/4) Banshee Blast(14d4 damage, CL 14, DC: 23)*<br>
+TACTICS<br>
+**Before Combat** He casts Mage Armor, Defending Bone, Ablative Barrier and Greater False Life every morning (included in stats). If he knows combat is imminent he casts Shield (taking AC up to 26) and mirror image.<br>
+**During Combat** He prefers to attack from below, using his earthcrawler ability to come up under spellcasters and strike with his paralysing claws first before escaping back underground to his again. Anyone tripped by his mate is a natural target for him to strike. His fast healing underground along with the healing from any necromancy hp-dealing spells make him exceptionally resilient and he will try to hit and run, leaving creatures bleeding out if possible. Any non-lethal damage accumulated is removed by any healing, so he can often return quickly to full hp with a single damaging spell. If he paralyses a foe he will grapple them and drag them underground to suffocate. Ideally he will attack from within a sphere of blacklight.<br>
+STATISTICS<br>
+**Str** 13, **Dex** 16, **Con** 14, **Int** 8, **Wis** 8, **Cha** 20<br>
+**Base Atk** +6/+1; **CMB** +11 (+16 trip, +18 trip w. Balor's Lash); **CMD** 26<br>
+**Feats** Eschew materials, Spell focus (necromancy), Greater Spell Focus (Necromancy), Varisian Tattoo (Necromancy), Bloatmage Initiate, Weapon Finesse, Combat Casting??, Arcane Strike<br>
+**Skills** Stealth +11, Intimidate +10, Spellcraft +7<br>
+**Languages** Kuru<br>
+**SQ** Blood Courage (Ex), Cannibalistic Vitality (Ex), Bloodline Arcana: Heal 1hp/spell level for necromancy spells that deal hp damage, Ghoulish Claws (Su) 9 rounds/day (2 claws, 1d4+1 rounds paralysis, counts as magic), Leathery Skin (Ex) (Cold Resistance 10/-, Natural Armor +2), Ravenous Frenzy (Ex) 16 rounds/day (haste, bleed 1d4 if 2 claws hit), Earthcrawler (Burrow 30, Fast healing 10 (max 160/day) if in earth.<br>
+**Combat Gear** <br>
+**Other Gear** Headband of Charisma +2, Cloak of Resistance +1, Robes of Arcane Heritage
+
+DESCRIPTION
+
 
 **Basheba, Female Kuru Warpriest of the Bloodqueen. CR 11 (XP 12,800)**<br>
 Kuru Warpriest 12<br>
