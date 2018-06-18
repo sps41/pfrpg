@@ -5,7 +5,7 @@
 Garshog and Basheba are (respectively) husband and wife, as well as borther and sister. They have, together, rules the clan since they killed and consumed the last chief (thier father) some years back. Utterly loyal to each other they are inseperable - together in bed, in battle andprobably in death.
 Garshog is an enormously fat man, grown obese on human flesh and using his size to fuel his dark powers. Though physically ugly he has a magnetic personality and holds the Kuru in his sway as much through words as through his personal power. Those unpersuaded by either are usually convinced by the brutal killing power of his animal companion and his mate however!
 
-Garshog, Kuru Male Sorcerer (Sylvan) 12
+Garshog, Kuru Male Sorcerer (Ghoul) 12
 
 **Basheba, Female Kuru Warpriest of the Bloodqueen. CR 11 (XP 12,800)**<br>
 Kuru Warpriest 12<br>
@@ -23,11 +23,11 @@ OFFENSE<br>
 **Ranged** dagger +14 (1d4+2/19–20)<br>
 **Special Attacks** Channel energy (DC 17) 4d6, Spells (5/6/5/3/3), Blessings: Destructive Attacks (+5 damage for 1 minute), Unholy Strike (+1d6 weapon damage, Evil for 1 minute), Heart of Carnage, Battle Companion (SM IV, usually Fiendish Giant Scorpion)<br>
 *Spells prepared:*<br>
-*0:*
-*1: Magic Vestment, Divine Favor, Shield of Faith, *
-*2: Ironskin, Aid, Bull's Strength, Sympathetic Wounds, Death Knell*
-*3: Channel Vigor, Shield of Darkness, *
-*4: Divine Power*
+*0:*<br>
+*1: Magic Vestment, Divine Favor, Shield of Faith, *<br>
+*2: Ironskin, Aid, Bull's Strength, Sympathetic Wounds, Death Knell*<br>
+*3: Channel Vigor, Shield of Darkness, *<br>
+*4: Divine Power*<br>
 TACTICS<br>
 **Before Combat** She will use her sacred weapon ability to add +2, *Dueling* to the Balor's Lash (+2 to hit/dmg, +6 to trip/disarm attempts) and add +2 to her armor via sacred armor. She usually enters combat riding her Battle Companion - normally a Fiendish Giant Scorpion or Wasp (if flight would be useful). If that is not appropriate (space etc.) she summons a hellhound instead. She casts Sympathetic Wounds on the summoned creature.<br>
 **During Combat** While wielding a whip she has reach 15' and threatens to 15', deals full damage and can (as a standard action) perform a trip or disarm attempt which, if successful she can repeat on any other foe in range. Foes take 2d6 fire damage from any non-damaging manoever. She can also grapple with the whip and never drops it due to a failed disarm or trip combat maneuver attempt. Tripping a foe causes them to provoke AoOs. During combat she attempts to trip as often as she can, moving her mount into range to attack the tripped foes and use attacks of opportunity to keep them down and/or disarmed. She uses her swift action blessings to cast spells which her damage as well as that of her mount (Divine Power/Favor/Channel Vigor etc).<br>
