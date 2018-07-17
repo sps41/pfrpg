@@ -1,3 +1,11 @@
+Half-orc warpriest archer
+Fate's favored, weapon training
+Dex 18, Str 14, Wis 14
+1- B Weapon Focus Hornbow - Point Blank Shot +5/2d6+3
+3- B Precise Shot - Rapid Shot +4/+4, 2d6+3/2d6+3
+5- Deadly Aim 
+6- Manyshot - FCB Human Feat Weapon Specialization +11/11/11 2d6+12/2d5+12/2d6+12 
+
 Warpriest 1: Dex 14, Str 18, Wis 14.
 Falcata: +5/1d8+4. AC: 18
 B: WF (Falcata)
